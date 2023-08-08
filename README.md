@@ -6,7 +6,7 @@ Este programa foi desenvolvido durante um trabalho de estruturas de dados na UFM
 
 O programa requer os arquivos de entrada na pasta bin.
 
-Basta escrever no terminal “make all” que será compilado o programa e gerado os arquivos .o na pasta “obj” e um executável na pasta “bin”. Caso deseje testar entradas diferentes das que já estão lá, é necessário adicionar um arquivo de entrada na pasta bin e adicionar o comando de execução no Makefile no modelo
+Basta escrever no terminal “make all” que será compilado o programa e gerado os arquivos .o na pasta “obj” e um executável na pasta “bin”. Caso deseje testar entradas diferentes das que já estão lá, é necessário adicionar um arquivo de entrada na pasta bin e adicionar o comando de execução no Makefile no modelo:
 
 $(EXE) $(BIN)/entrada
 
