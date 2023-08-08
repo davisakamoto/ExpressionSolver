@@ -22,4 +22,4 @@ Para limpeza dos arquivos objetos e do .run, basta escrever “make clean” no 
 
 ## Saiba mais
 
-Para mais informações detalhadas sobre o programa basta abrir a documentação no diretório raiz
+Para mais informações detalhadas sobre o programa basta abrir a documentação presente no diretório raiz.
