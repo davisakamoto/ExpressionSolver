@@ -19,3 +19,7 @@ Sendo que:
 3- “entrada” é o nome do arquivo de texto fornecido
 
 Para limpeza dos arquivos objetos e do .run, basta escrever “make clean” no terminal.
+
+## Saiba mais
+
+Para mais informações detalhadas sobre o programa basta abrir a documentação no diretório raiz
