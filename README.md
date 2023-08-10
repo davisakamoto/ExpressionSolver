@@ -1,6 +1,6 @@
 # ExpressionSolver (Solucionador de Expressões)
 ## Introdução
-Este programa foi desenvolvido durante um trabalho de estruturas de dados na UFMG. O problema proposto foi implementar um programa que recebe como argumento um arquivo de texto com uma ou mais expressões numéricas, que podem estar na notação infixa ou posfixa. O programa então deve ser capaz de validar a expressão recebida e armazená-la numa estrutura de dados apropriada, capaz de realizar conversões de uma notação para outra e solucionar a equação.
+Este programa foi desenvolvido durante um trabalho de estruturas de dados na UFMG. O problema proposto foi implementar um programa que recebe como argumento um arquivo de texto com uma ou mais expressões numéricas, que podem estar na notação infixa ou posfixa. O programa então deve ser capaz de validar a expressão recebida e armazená-la numa estrutura de dados apropriada, capaz de realizar conversões de uma notação para outra e solucionar a equação. Durante o desenvolvimento não era permitido utilizar bibliotecas prontas para as estruturas de dados.
 
 ## Instruções para compilação e execução
 
